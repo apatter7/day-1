@@ -1,0 +1,59 @@
+.navbar-brand{
+	font-family: Orbitron;
+	letter-spacing:-7px;
+	font-size:42px;
+}
+.me{
+	height:250px;
+	width:250px;
+	border-radius:58%;
+}
+#who{
+	background-image: url("images/background.jpg");
+	background-size:1370px;
+	height:500px;
+	text-align:center;
+	background-position:center;
+	color:white;
+}
+.navbar{
+	margin-bottom:0;
+	height:70px;
+}
+.navbar-default .navbar-nav>li>a{
+	font-size: 20px;
+}
+h2{
+	padding-top:50px;
+	padding-bottom:50px;
+	margin-top:0;
+	text-align: center;
+}
+h4{
+	color:white;
+	font-size:20px;
+	font-weight:bold;
+}
+.row{
+ padding-left:30px;
+ padding-right:30px;
+}
+#what{
+	background-color:gray;
+	padding-bottom:200px;
+	color:white;
+}
+#where{
+	color:gray;
+	text-align:center;
+	padding-bottom:50px;
+}
+.thumbnail{
+	margin-top:50px;
+}
+p{
+	text-align:center;
+}
+button{
+	height:40px;
+}
